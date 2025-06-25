@@ -17,16 +17,6 @@ Dự án nhằm **phân tích và dự đoán khả năng rời bỏ của khác
 
 ---
 
-## 🧾 Cấu trúc thư mục
-```toml
-Customer-churn-in-Bank/
-│
-├── Customer churn in bank.ipynb       # Notebook chính
-├── Churn_Modelling.csv                # File dữ liệu
-├── README.md                          # Tệp mô tả (bạn đang đọc đây)
-
----
-
 ### 2. 🧪 Quy trình xử lý
 #### 🔍 Khám phá dữ liệu (EDA)
 - Thống kê số lượng khách hàng đã rời đi
@@ -43,6 +33,16 @@ Customer-churn-in-Bank/
 
 #### 🧠 Mô hình dự đoán
 > *(Chưa có trong file hiện tại, sẽ bổ sung nếu được cập nhật)*
+
+---
+## 🧾 Cấu trúc thư mục
+```toml
+Customer-churn-in-Bank/
+│
+├── Customer churn in bank.ipynb       # Notebook chính
+├── Churn_Modelling.csv                # File dữ liệu
+├── README.md                          # Tệp mô tả (bạn đang đọc đây)
+```
 
 ---
 
